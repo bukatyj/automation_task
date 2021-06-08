@@ -1,0 +1,7 @@
+/.pytest_cache/
+/my_env/
+/assets/
+/geckodriver.log
+/report.html
+
+
